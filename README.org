@@ -13,6 +13,6 @@ im programmer kinda
 * 
 *** Stats
 #+ATTR_HTML: :alt Github Stats
-[[https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord&hide_border=true&hide_title=true&.png]]
+[[https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord&hide_border=true&hide_title=true&card_width=500&.png]]
 #+ATTR_HTML: :alt Github Streak
-[[https://streak-stats.demolab.com/?user=tkerm94&border_radius=4.5&theme=nord&hide_border=true&.png]]
+[[https://streak-stats.demolab.com/?user=tkerm94&border_radius=4.5&theme=nord&hide_border=true&card_width=500&.png]]
