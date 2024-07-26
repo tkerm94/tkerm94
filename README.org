@@ -2,8 +2,8 @@
 hi im programmer kinda
 -----
 ** Languages and tools
-#+BEGIN_export html
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-#+END_export
+#+begin_export html
+@@html:<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />@@
+#+end_export
 ** Stats
 [[https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord&fg_color=2e3440&border_color=81a1c1&hide_border=false.png]]
