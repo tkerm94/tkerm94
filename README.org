@@ -12,5 +12,7 @@ im programmer kinda
 @@html:<img alt="Nixos" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />@@
 * 
 *** Stats
-@@html:<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord&hide_border=true&hide_title=true" />@@
-@@html:<img alt="Github Streak" src="https://streak-stats.demolab.com/?user=tkerm94&border_radius=4.5&theme=nord&hide_border=true" />@@
+#+ATTR_HTML: :alt Github Stats
+[[https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord&hide_border=true&hide_title=true&.png]]
+#+ATTR_HTML: :alt Github Streak
+[[https://streak-stats.demolab.com/?user=tkerm94&border_radius=4.5&theme=nord&hide_border=true&.png]]
