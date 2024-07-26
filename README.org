@@ -2,4 +2,4 @@
 hi im programmer kinda
 -----
 ** 📊 Stats
-[[http:https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord]]
+[[file:https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord]]
