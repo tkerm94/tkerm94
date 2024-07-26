@@ -1,8 +1,8 @@
-* tkerm94 🌼
+* 🦋 tkerm94
 hi\\
 im programmer kinda
 -----
-*** Languages and tools
+*** ⚙️ Languages and tools
 @@html:<img alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />@@
 @@html:<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />@@
 @@html:<img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />@@
@@ -11,7 +11,7 @@ im programmer kinda
 @@html:<img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />@@
 @@html:<img alt="Nixos" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />@@
 * 
-*** Stats
+*** 📊 Stats
 #+ATTR_HTML: :alt Github Stats
 [[https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord&hide_border=true&hide_title=true&card_width=500&.png]]
 #+ATTR_HTML: :alt Github Streak
