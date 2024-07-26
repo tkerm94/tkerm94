@@ -1,5 +1,5 @@
 * 🌼 tkerm94
 hi im programmer kinda
----
+-----
 ** 📊 Stats
 [[https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord][GitHub stats]]
