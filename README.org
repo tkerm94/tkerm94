@@ -14,5 +14,7 @@ I'm mainly a backend developer and I'm trying to learn different things in IT.
 *** 📊 Stats
 #+ATTR_HTML: :alt Github Stats
 [[https://github-readme-stats.vercel.app/api?username=tkerm94&show_icons=true&theme=nord&hide_border=true&hide_title=true&card_width=500&.png]]
-#+ATTR_HTML: :alt Github Streak
-[[https://streak-stats.demolab.com/?user=tkerm94&border_radius=4.5&theme=nord&hide_border=true&card_width=500&.png]]
+#+ATTRS_HTML: :alt Github Languages
+[[https://github-readme-stats.vercel.app/api/top-langs/?username=tkerm94&layout=compact&card_width=500&theme=nord&hide_border=true&hide_title=true&.png]]
+# #+ATTR_HTML: :alt Github Streak
+# [[https://streak-stats.demolab.com/?user=tkerm94&border_radius=4.5&theme=nord&hide_border=true&card_width=500&.png]]
