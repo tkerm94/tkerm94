@@ -1,6 +1,6 @@
 * ℹ️ About me
 Hi :)\\
-I'm mainly a backend developer and I'm trying to learn different things in IT.
+I'm trying to become a backend developer and learn different things in IT.
 -----
 *** ⚙️ Languages and tools
 @@html:<img alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />@@
